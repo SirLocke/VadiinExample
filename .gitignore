@@ -1,0 +1,6 @@
+### Vaadin ###
+.vaadin-designer
+.designer
+.idea
+.vscode
+.node_modules
