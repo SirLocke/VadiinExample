@@ -143,6 +143,14 @@
     <orderEntry type="library" scope="TEST" name="Maven: com.vaadin:vaadin-text-field-testbench:2.0.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.vaadin:vaadin-time-picker-testbench:2.0.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.vaadin:vaadin-upload-testbench:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:9.4.15.v20190215" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:9.4.15.v20190215" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:9.4.15.v20190215" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:9.4.15.v20190215" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:9.4.15.v20190215" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:9.4.15.v20190215" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:9.4.15.v20190215" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:9.4.15.v20190215" level="project" />
   </component>
   <component name="designer2.settings">
     <option name="lastJavaLocation" value="D:\Web Entwicklung\Vaadin\Vaadin14-Intro\Exercises\src\test\java" />
